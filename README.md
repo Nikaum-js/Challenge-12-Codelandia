@@ -1,5 +1,3 @@
-act App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project direy, you can run:
