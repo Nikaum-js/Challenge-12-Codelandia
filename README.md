@@ -1,6 +1,4 @@
-## Available Scripts
-
-In the project direy, you can run:
+## Available Script
 
 ### `yarn start`
 
